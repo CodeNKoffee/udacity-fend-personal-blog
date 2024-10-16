@@ -235,11 +235,11 @@ padding-top: 3px;
 
 .about-me__links {
   animation: fade-up 650ms 800ms backwards;
-  display: flex;
   display: grid;
+  display: flex;
   grid-template-columns: repeat(auto-fit, minmax(50px, 2fr));
   justify-content: center; 
-  gap: 10px; 
+  gap: 4px; 
 }
 
 @keyframes fade-up {
