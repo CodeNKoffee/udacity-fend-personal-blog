@@ -1,0 +1,33 @@
+.article__container {
+  width: 100%;
+  margin: 40px 0;
+}
+
+.article__header {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: start;
+  margin: 56px 0 16px;
+}
+
+.article__sub-header {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: start;
+  margin: 0 0 16px;
+}
+
+.article__para {
+  text-align: start;
+  padding: 0;
+}
+
+.article__attribution {
+  margin-top: 16px;
+  font-weight: bold;
+  color: #00BFA6;
+}
+
+.article__list {
+  padding-left: 32px;
+}

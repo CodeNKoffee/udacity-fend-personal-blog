@@ -1,0 +1,39 @@
+nav{
+  width: 100%;
+  height: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 12px;
+}
+
+.nav__link--list{
+  display: flex;
+}
+
+.nav__link--anchor{
+  margin: 0 12px;
+  color: rgb(109, 95, 95);
+  font-weight: 700;
+}
+
+.nav__link--anchor-primary{
+  background-color: #00BFA6;
+  color: whitesmoke;
+  padding: 12px 20px;
+  border-radius: 50px;
+  transition: all 300ms ease;
+}
+
+.nav__link--anchor-primary:hover{
+  background-color: rgb(109, 95, 95);
+}
+
+.personal__logo{
+  font-size: 24px;
+  margin: 0 12px;
+  color: #00BFA6;
+  font-weight: bold;
+}
