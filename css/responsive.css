@@ -8,8 +8,17 @@
     font-size: 28px;
   }
 
+  .about-me__info--title {
+    font-size: 24px;
+    padding-top: 40px;
+  }
+
   .about-me__info--para {
     font-size: 18px;
+  }
+
+  .article__header {
+    padding: 0 18px;
   }
 
   .blog {

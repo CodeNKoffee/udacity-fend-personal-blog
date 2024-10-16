@@ -307,9 +307,9 @@ BLOG SECTION
 }
 
 .blog__name {
+  width: 100%;
   font-size: 16px;
   color: #000;
-  padding: 0 24px;
   transition: all 300ms ease;
 }
 
@@ -317,7 +317,6 @@ BLOG SECTION
 .blog__page--img--wrapper {
   position: relative;
   width: 100%;
-  height: 300px;
 }
 
 .blog__page--img {
